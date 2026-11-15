@@ -4,6 +4,7 @@ A standalone digital design study website with 13 concise lessons, worked exampl
 
 ## Open locally
 
+
 Extract the ZIP. Keep `index.html`, `styles.css`, and `app.js` together. Double-click `index.html` to open it in Chrome or Edge. No installation or build is required. Google Fonts is optional: system fonts are used when offline. All interactions run locally; no API, account, or iframe is required. Lab state resets when you change topics; explored-topic progress and theme are saved in your current browser when storage is available.
 
 ## Deploy to GitHub Pages — browser-only method
